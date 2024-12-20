@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    
+}
+
+.buscar button{
+    background-color: #d3d3d3;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 25px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.mas button{
+    background-color: orange;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.crear-cuenta button{
+    background-color: #00A2FF;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
